@@ -27,7 +27,7 @@ pip install PyPDF2
 1. Place all the PDF files you want to merge in the same folder as the script.
 2. Run the script:
    ```bash
-   python merge_pdfs.py
+   python main.py
    ```
 3. Enter the number of PDFs to merge.
 4. Enter the filenames of each PDF (including the .pdf extension).
